@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Tracking -->
+<img width="1px" height="1px" src="https://github.arjos.com.br/tracking/img/arjosweb/T03TRN4U6CR/B040NV0JAJJ/b01TJQ0TJgweZZOXawIzdjLu.png">
