@@ -1,7 +1,7 @@
 <h1 align="center">ARJOS Tecnologia</h1>
 
 <p align="center">
-  Desenvolvimento de software simples, moderno e eficiente.
+  Desenvolvimento de software seguro, moderno e escalável.
 </p>
 
 <p align="center">
